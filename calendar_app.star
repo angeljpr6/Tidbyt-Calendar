@@ -2,7 +2,7 @@
 Applet: Calendar App
 Summary: Show a calendar
 Description: Show the next events in your google calendar.
-Author: angeljpr
+Author: angeljpr6
 """
 load("render.star", "render")
 load("http.star", "http")
